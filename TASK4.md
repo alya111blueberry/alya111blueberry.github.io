@@ -25,7 +25,7 @@
 
 ```
 
-![Снимок](https://github.com/user-attachments/assets/bf9a824b-236f-4fed-b316-516aac34a41b)
+![Снимок](https://github.com/alya111blueberry/Alya-Likhanova/blob/main/Снимок.JPG)
 
 с - 00
 о - 01
