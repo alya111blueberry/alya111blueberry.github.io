@@ -25,15 +25,12 @@
 
 ```
 
-
-
 ![Снимок](https://github.com/user-attachments/assets/bf9a824b-236f-4fed-b316-516aac34a41b)
 
 с - 00
 о - 01
 т - 100
 в - 101
-
 е - 110
 и - 111
 ```
