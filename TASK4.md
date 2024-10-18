@@ -23,9 +23,10 @@
 
 ## 3.
 
-```
 
-![Снимок](https://github.com/alya111blueberry/Alya-Likhanova/blob/main/Снимок.JPG)
+![Снимок](https://github.com/user-attachments/assets/dd16d0c7-96f3-4fd1-a148-6df6e1fbd2aa)
+
+
 
 с - 00
 о - 01
@@ -37,7 +38,8 @@
 
 ## 4.
 
-Количество уникальных букв: `5`
+Количество уникальных букв: `6`
+
 Минимальное требуемое количество бит: `3`
 
 Словарь:
