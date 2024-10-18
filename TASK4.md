@@ -27,7 +27,7 @@
 ![Снимок](https://github.com/user-attachments/assets/dd16d0c7-96f3-4fd1-a148-6df6e1fbd2aa)
 
 
-
+```
 с - 00
 о - 01
 т - 100
