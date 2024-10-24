@@ -24,7 +24,7 @@
 ## 3.
 
 
-![Снимок](https://github.com/user-attachments/assets/dd16d0c7-96f3-4fd1-a148-6df6e1fbd2aa)
+![Снимок](Снимок экрана 2024-10-24 в 16.40.06.png)
 
 
 ```
