@@ -25,7 +25,8 @@
 
 
 
-<img width="605" alt="Снимок экрана 2024-10-24 в 16 40 06" src="https://github.com/user-attachments/assets/8bef81fc-9266-4da7-adc7-ba06e2cfdf1f">
+<img width="612" alt="Снимок экрана 2024-10-24 в 20 08 29" src="https://github.com/user-attachments/assets/a9d5d5d2-047a-4715-b6c9-b3cbc4988c24">
+
 
 
 ```
