@@ -24,7 +24,8 @@
 ## 3.
 
 
-![Снимок]([Снимок экрана 2024-10-24 в 16.40.06.png](https://github.com/alya111blueberry/alya111blueberry.github.io/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-10-24%20%D0%B2%2016.40.06.png))
+
+<img width="605" alt="Снимок экрана 2024-10-24 в 16 40 06" src="https://github.com/user-attachments/assets/8bef81fc-9266-4da7-adc7-ba06e2cfdf1f">
 
 
 ```
