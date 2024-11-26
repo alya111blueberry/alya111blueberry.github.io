@@ -7,3 +7,5 @@
 [Задание по battleship](battleship.html) 
 
 [Задание по кодировке](TASK4.md)
+
+[Задание по иоделям](MODELS.md)
